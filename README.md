@@ -1,11 +1,11 @@
 # 👋 Hola, soy Brayan Alexander Osorio Morales
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=3CB371&center=true&vCenter=true&width=400&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollador+Web;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=3CB371&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollador+Web;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/user/BOSORIO72/?theme=radical&border=30F135&stroke=3CB371&fire=E34F26&ring=3CB371" alt="Streak stats" /></a>
+  <img src="https://streak-stats.demolab.com/?user=BOSORIO72&theme=radical&border=30F135&stroke=3CB371&fire=E34F26&ring=3CB371" alt="Streak stats" />
 </p>
 
 ---
@@ -64,13 +64,12 @@
 
 ---
 
-## 📫 Conectemos
+## 📫 Contáctame
 
 <div align="center">
   <a href="https://github.com/BOSORIO72">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Añade más redes cuando las tengas -->
 </div>
 
 ---
