@@ -1,7 +1,7 @@
-# 👋 Hola, soy Brayan Alexander Osorio Morales
+<h1 align="center">👋 Hola, soy Brayan Alexander Osorio Morales</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=3CB371&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollador+Web;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=3CB371&center=true&vCenter=true&width=600&height=80&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Desarrollador+Web;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,49 +10,51 @@
 
 ---
 
-## 🌍 Sobre mí
+<h2 align="center">🌍 Sobre mí</h2>
 
-- 🔭 Estudiante de **Ingeniería de Software**
-- 📍 Pereira, Colombia
-- 🌐 Idiomas: **Español** (nativo) | **Inglés** (intermedio)
-- 💡 Passionate about learning new technologies
-- 🎯 Currently learning: Laravel, PHP, JavaScript
+<p align="center">
+  🔭 Estudiante de <strong>Ingeniería de Software</strong><br>
+  📍 Pereira, Colombia<br>
+  🌐 Idiomas: <strong>Español</strong> (nativo) | <strong>Inglés</strong> (intermedio)<br>
+  💡 Passionate about learning new technologies<br>
+  🎯 Currently learning: Laravel, PHP, JavaScript
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Languages
-<div align="center">
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</div>
+</p>
 
-### Frameworks & Tools
-<div align="center">
+<h3 align="center">Frameworks & Tools</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer">
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BOSORIO72&show_icons=true&theme=radical&border_color=3CB371&hide_title=true&count_private=true" height="180" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSORIO72&layout=compact&theme=radical&border_color=3CB371&hide_title=true" height="180" alt="Languages" />
-</div>
+</p>
 
 ---
 
-## 📂 Proyectos Destacados
+<h2 align="center">📂 Proyectos Destacados</h2>
 
 | Proyecto | Descripción | Tecnología |
 |----------|-------------|------------|
@@ -64,18 +66,20 @@
 
 ---
 
-## 📫 Contáctame
+<h2 align="center">📫 Contáctame</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/BOSORIO72">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BOSORIO72&label=Profile%20Views&color=3CB371&style=flat-square" alt="Profile views" />
-  
-  ⭐️ Creado con ❤️ por [Brayan Alexander Osorio Morales](https://github.com/BOSORIO72)
-</div>
+</p>
+
+<p align="center">
+  ⭐️ Creado con ❤️ por <a href="https://github.com/BOSORIO72">Brayan Alexander Osorio Morales</a>
+</p>
