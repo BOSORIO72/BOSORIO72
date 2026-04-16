@@ -56,6 +56,8 @@
 
 <h2 align="center">📂 Proyectos Destacados</h2>
 
+<div align="center">
+
 | Proyecto | Descripción | Tecnología |
 |----------|-------------|------------|
 | [Chorizos](https://github.com/BOSORIO72/Chorizos) | - | PHP/Laravel |
@@ -63,6 +65,8 @@
 | [crudblog](https://github.com/BOSORIO72/crudblog) | CRUD de blog | Laravel/Blade |
 | [productos_parcial](https://github.com/BOSORIO72/productos_parcial) | Gestión de productos | Laravel/Blade |
 | [app_cursos_virtuales](https://github.com/BOSORIO72/app_cursos_virtuales) | App de cursos virtuales | Laravel/Blade |
+
+</div>
 
 ---
 
